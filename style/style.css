@@ -1,0 +1,37 @@
+html,body{ 
+ margin: 0;
+padding: 0;
+} 
+h1{
+   
+    text-align: center;
+    color: #740AD7;
+    text-transform: uppercase;
+}
+
+ .search-bar{
+    margin: 20px;
+    text-align: center;
+    border: 0px solid #D93F3F;
+    border-radius: 30px;
+}
+.search-bar input{
+    width:75%;
+}
+.video-item img{
+    max-width: 64px;
+}
+.video-detail .details{
+    margin-top:10px;
+    padding:10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.list-group-item{
+    cursor: pointer;
+}
+.list-group-item:hover{
+    background-color: #eee;
+}
+
+
